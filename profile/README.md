@@ -29,4 +29,5 @@
 - Explore TypeDB in our [getting started guide](https://typedb.com/docs/home/get-started/) and [examples](https://typedb.com/docs/examples/).
 - Master TypeDB with [TypeDB Academy](https://typedb.com/docs/academy).
 - Discover more of TypeDB’s unique [Features](https://typedb.com/features).
+- Follow the latest TypeDB news in the [TypeDB Blog](https://typedb.com/blog).
 - Join the community on [Discord](https://typedb.com/discord).
